@@ -7,3 +7,5 @@ mini tool untuk upload file dari HP → Laptop via jaringan Wi-Fi lokal.
 - python -m venv venv
 - source venv/bin/activate.fish   # atau .sh sesuai shell
 - pip install fastapi uvicorn python-multipart
+
+project gabut N1k0R7z
