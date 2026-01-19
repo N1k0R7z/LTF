@@ -1,4 +1,4 @@
-# LTF "Local Transfer (LAN)" v1
+# LTF "Local Transfer File)" v1
 
 mini tool untuk upload file dari HP → Laptop via jaringan Wi-Fi lokal. 
 
